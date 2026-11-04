@@ -1,0 +1,18 @@
+# Metadata for this lesson. See the README at the root of this repo for the fields.
+title: 'Programming Turtles: The Maze'
+subject: Computer Science
+level: A-level
+year: Y12–13
+topic: Python
+description: 'An unplugged follow-up to Intro to Python: pairs program a printed turtle maze with seven physical command cards.'
+view: /slides/decks/programming-turtles/
+files:
+- path: turtle-maze.pdf
+  label: Browser deck as PDF
+  kind: slides
+- path: turtle-maze.pptx
+  label: Browser deck as PowerPoint
+  kind: slides
+- path: materials.zip
+  label: 'Everything in one zip: slides, worksheets and code'
+  kind: student

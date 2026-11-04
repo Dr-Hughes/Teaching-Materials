@@ -1,0 +1,13 @@
+# Metadata for this lesson. See the README at the root of this repo for the fields.
+title: Flowcharts
+subject: Creative iMedia
+level: GCSE
+year: Y11
+topic: Flowcharts
+files:
+- path: y11-flowcharts.pptx
+  label: Lesson slides (PowerPoint)
+  kind: slides
+- path: y11-flowcharts-worksheet.pdf
+  label: Worksheet (PDF)
+  kind: student

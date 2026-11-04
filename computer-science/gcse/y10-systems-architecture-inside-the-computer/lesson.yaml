@@ -1,0 +1,19 @@
+# Metadata for this lesson. See the README at the root of this repo for the fields.
+title: Inside the Computer
+subject: Computer Science
+level: GCSE
+year: Y10
+topic: Systems Architecture
+files:
+- path: y10-inside-the-computer.pptx
+  label: Lesson slides (PowerPoint)
+  kind: slides
+- path: worksheet.pdf
+  label: Worksheet (PDF)
+  kind: student
+- path: worksheet.docx
+  label: Worksheet (docx)
+  kind: student
+- path: worksheet-teacher.pdf
+  label: Teacher version (PDF)
+  kind: teacher

@@ -1,0 +1,16 @@
+# Metadata for this lesson. See the README at the root of this repo for the fields.
+title: Language Modelling Workshop
+subject: Computer Science
+level: Workshop
+year: Any
+topic: AI
+description: 'A two-session LLM workshop: from GPT to ChatGPT (prompting, RLHF, prompt injection, and a live CTF), then fine-tuning
+  a language model.'
+view: /slides/decks/language-modelling/
+files:
+- path: language-modelling-workshop.pdf
+  label: Browser deck as PDF
+  kind: slides
+- path: language-modelling-workshop.pptx
+  label: Browser deck as PowerPoint
+  kind: slides

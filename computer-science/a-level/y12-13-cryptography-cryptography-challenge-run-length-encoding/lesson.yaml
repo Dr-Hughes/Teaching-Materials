@@ -1,0 +1,37 @@
+# Metadata for this lesson. See the README at the root of this repo for the fields.
+title: 'Cryptography Challenge: Run-Length Encoding'
+subject: Computer Science
+level: A-level
+year: Y12–13
+topic: Cryptography
+description: 'A run-length-encoding lesson for ~16 year olds: what encoding means, why we compress, and decoding pictures
+  by hand.'
+view: /slides/decks/cryptography-problem/
+files:
+- path: cryptography-problem.pptx
+  label: Lesson slides (PowerPoint)
+  kind: slides
+- path: cryptography-challenge.pdf
+  label: Browser deck as PDF
+  kind: slides
+- path: cryptography-challenge.pptx
+  label: Browser deck as PowerPoint
+  kind: slides
+- path: materials.zip
+  label: 'Everything in one zip: slides, worksheets and code'
+  kind: student
+- path: cryptography-all-in-one.pdf
+  label: All-in-one booklet (PDF)
+  kind: student
+- path: cryptography-all-in-one.docx
+  label: All-in-one booklet (Word)
+  kind: student
+- path: student-resources.zip
+  label: 'Student resources: booklet and code (zip)'
+  kind: student
+- path: cryptography-all-in-one-teacher-version.pdf
+  label: Teacher version (PDF)
+  kind: teacher
+- path: cryptography-all-in-one-answers.pdf
+  label: Answers (PDF)
+  kind: teacher

@@ -1,0 +1,25 @@
+# Metadata for this lesson. See the README at the root of this repo for the fields.
+title: Guessing π with Random Darts
+subject: Computer Science
+level: GCSE
+year: Y10–11
+topic: Monte Carlo
+description: 'A 15-minute lesson for ~15 year olds: estimating pi by throwing random darts at a square, in plain Python, with
+  animated diagrams.'
+view: /slides/decks/monte-carlo-pi/
+files:
+- path: guessing-pi-with-darts.pdf
+  label: Browser deck as PDF
+  kind: slides
+- path: guessing-pi-with-darts.pptx
+  label: Browser deck as PowerPoint
+  kind: slides
+- path: guessing-pi-worksheet.pdf
+  label: Independent worksheet (PDF)
+  kind: student
+- path: guessing-pi-worksheet.docx
+  label: Independent worksheet (Word)
+  kind: student
+- path: guessing-pi-worksheet-teacher-version.pdf
+  label: Teacher version (PDF)
+  kind: teacher

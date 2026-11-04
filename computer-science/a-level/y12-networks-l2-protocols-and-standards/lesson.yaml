@@ -1,0 +1,13 @@
+# Metadata for this lesson. See the README at the root of this repo for the fields.
+title: L2 Protocols and Standards
+subject: Computer Science
+level: A-level
+year: Y12
+topic: Networks
+files:
+- path: y12-networks-l2-protocols-and-standards.pptx
+  label: Lesson slides (PowerPoint)
+  kind: slides
+- path: l2-characteristics-protocols-and-standards.docx
+  label: Student handout (docx)
+  kind: student

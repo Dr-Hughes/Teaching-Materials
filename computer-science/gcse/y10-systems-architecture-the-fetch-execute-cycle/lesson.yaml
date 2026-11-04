@@ -1,0 +1,16 @@
+# Metadata for this lesson. See the README at the root of this repo for the fields.
+title: The Fetch-Execute Cycle
+subject: Computer Science
+level: GCSE
+year: Y10
+topic: Systems Architecture
+files:
+- path: y10-fetch-execute-cycle.pptx
+  label: Lesson slides (PowerPoint)
+  kind: slides
+- path: crack-the-vault-cut-outs.docx
+  label: Crack the Vault cut-outs (docx)
+  kind: student
+- path: crack-the-vault-teacher-key.docx
+  label: Crack the Vault teacher key (docx)
+  kind: teacher

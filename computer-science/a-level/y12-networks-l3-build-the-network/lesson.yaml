@@ -1,0 +1,13 @@
+# Metadata for this lesson. See the README at the root of this repo for the fields.
+title: L3 Build the Network
+subject: Computer Science
+level: A-level
+year: Y12
+topic: Networks
+files:
+- path: y12-networks-l3-build-the-network.pptx
+  label: Lesson slides (PowerPoint)
+  kind: slides
+- path: l3-build-the-network-hardware-lan-and-wan-client-server-and-p2p.docx
+  label: Student handout (docx)
+  kind: student

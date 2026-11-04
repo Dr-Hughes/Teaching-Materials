@@ -1,0 +1,46 @@
+# Metadata for this lesson. See the README at the root of this repo for the fields.
+title: Intro to Python
+subject: Computer Science
+level: A-level
+year: Y12–13
+topic: Python
+description: A crash-course intro to Python for a class of 16-year-olds with zero programming experience, taught live with
+  Spyder.
+view: /slides/decks/python-intro/
+files:
+- path: python-intro.pptx
+  label: Lesson slides (PowerPoint)
+  kind: slides
+- path: intro-to-python.pdf
+  label: Browser deck as PDF
+  kind: slides
+- path: intro-to-python.pptx
+  label: Browser deck as PowerPoint
+  kind: slides
+- path: materials.zip
+  label: 'Everything in one zip: slides, worksheets and code'
+  kind: student
+- path: intro-to-python-all-in-one.pdf
+  label: All-in-one booklet (PDF)
+  kind: student
+- path: student-resources.zip
+  label: Student resources, Day 1 (zip)
+  kind: student
+- path: function-ladder.pdf
+  label: Function ladder (PDF)
+  kind: student
+- path: python-cheatsheet.pdf
+  label: Python cheatsheet (PDF)
+  kind: student
+- path: spyder-help-sheet.pdf
+  label: Spyder help sheet (PDF)
+  kind: student
+- path: intro-to-python-all-in-one-teacher-version.pdf
+  label: Teacher version (PDF)
+  kind: teacher
+- path: intro-to-python-all-in-one-answers.pdf
+  label: Answers (PDF)
+  kind: teacher
+- path: function-ladder-answers.pdf
+  label: Function ladder answers (PDF)
+  kind: teacher

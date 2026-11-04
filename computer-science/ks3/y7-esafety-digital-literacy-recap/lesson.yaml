@@ -1,0 +1,16 @@
+# Metadata for this lesson. See the README at the root of this repo for the fields.
+title: Digital Literacy Recap
+subject: Computer Science
+level: KS3
+year: Y7
+topic: eSafety
+files:
+- path: y7-digital-literacy-recap.pptx
+  label: Lesson slides (PowerPoint)
+  kind: slides
+- path: worksheet.pdf
+  label: Worksheet (PDF)
+  kind: student
+- path: teachers-version-worksheet.pdf
+  label: Teacher version (PDF)
+  kind: teacher

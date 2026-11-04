@@ -1,0 +1,15 @@
+# Metadata for this lesson. See the README at the root of this repo for the fields.
+title: What Is a Function?
+subject: Computer Science
+level: GCSE
+year: Y10
+topic: Python
+description: Building the idea of a function from scratch for Year 10 students, using making tea as the running example.
+view: /slides/decks/functions/
+files:
+- path: what-is-a-function.pdf
+  label: Browser deck as PDF
+  kind: slides
+- path: what-is-a-function.pptx
+  label: Browser deck as PowerPoint
+  kind: slides

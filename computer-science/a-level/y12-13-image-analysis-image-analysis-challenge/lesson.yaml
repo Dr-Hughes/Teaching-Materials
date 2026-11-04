@@ -1,0 +1,37 @@
+# Metadata for this lesson. See the README at the root of this repo for the fields.
+title: Image Analysis Challenge
+subject: Computer Science
+level: A-level
+year: Y12–13
+topic: Image Analysis
+description: 'A follow-on to Intro to Python: from ''what''s a library?'' to treating a picture as a grid of numbers, leading
+  into a hidden-message decoding challenge.'
+view: /slides/decks/image-analysis-problem/
+files:
+- path: image-analysis-problem.pptx
+  label: Lesson slides (PowerPoint)
+  kind: slides
+- path: image-analysis-challenge.pdf
+  label: Browser deck as PDF
+  kind: slides
+- path: image-analysis-challenge.pptx
+  label: Browser deck as PowerPoint
+  kind: slides
+- path: materials.zip
+  label: 'Everything in one zip: slides, worksheets and code'
+  kind: student
+- path: image-analysis-all-in-one.pdf
+  label: All-in-one booklet (PDF)
+  kind: student
+- path: image-analysis-all-in-one.docx
+  label: All-in-one booklet (Word)
+  kind: student
+- path: student-resources.zip
+  label: 'Student resources: booklet and code (zip)'
+  kind: student
+- path: image-analysis-all-in-one-teacher-version.pdf
+  label: Teacher version (PDF)
+  kind: teacher
+- path: image-analysis-all-in-one-answers.pdf
+  label: Answers (PDF)
+  kind: teacher

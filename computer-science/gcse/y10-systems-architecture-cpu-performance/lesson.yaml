@@ -1,0 +1,10 @@
+# Metadata for this lesson. See the README at the root of this repo for the fields.
+title: CPU Performance
+subject: Computer Science
+level: GCSE
+year: Y10
+topic: Systems Architecture
+files:
+- path: y10-cpu-performance.pptx
+  label: Lesson slides (PowerPoint)
+  kind: slides

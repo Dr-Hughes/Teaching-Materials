@@ -1,0 +1,13 @@
+# Metadata for this lesson. See the README at the root of this repo for the fields.
+title: L4 The TCP/IP Stack
+subject: Computer Science
+level: A-level
+year: Y12
+topic: Networks
+files:
+- path: y12-networks-l4-the-tcp-ip-stack.pptx
+  label: Lesson slides (PowerPoint)
+  kind: slides
+- path: l4-the-tcp-ip-stack-and-protocol-layering.docx
+  label: Student handout (docx)
+  kind: student
