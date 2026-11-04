@@ -14,3 +14,9 @@ files:
 - path: crack-the-vault-teacher-key.docx
   label: Crack the Vault teacher key (docx)
   kind: teacher
+- path: vault-1.zip
+  label: Vault 1, password-protected zip (password on the slides)
+  kind: student
+- path: vault-2.zip
+  label: Vault 2, password-protected zip (password on the slides)
+  kind: student

@@ -49,6 +49,7 @@ The plan is to build that page straight from this repo, so keep this layout and 
 1. Make the folder and copy the files in.
 2. Write `lesson.yaml`.
 3. Run `python3 scripts/check.py` (every file listed exists, every file is listed, fields are valid).
+   The pre-commit hook runs it for you once enabled: `git config core.hooksPath .githooks` (once per clone).
 4. Commit and push, then add the same entry to the site's catalogue.
 
 Before committing, strip author metadata and speaker notes you don't want to publish from Office files.

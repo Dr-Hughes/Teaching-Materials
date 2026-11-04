@@ -8,3 +8,9 @@ files:
 - path: y10-inside-the-cpu.pptx
   label: Lesson slides (PowerPoint)
   kind: slides
+- path: exam-practice.pdf
+  label: Exam practice (PDF)
+  kind: student
+- path: exam-practice-teacher-copy.pdf
+  label: Exam practice, teacher copy (PDF)
+  kind: teacher

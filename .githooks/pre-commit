@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+# Runs scripts/check.py before every commit. Enable once per clone: git config core.hooksPath .githooks
+# Bypass once with `git commit --no-verify`.
+set -eu
+export PATH="/opt/homebrew/bin:$HOME/.local/bin:/usr/local/bin:$PATH" # GUI git clients have a bare PATH
+cd "$(git rev-parse --show-toplevel)"
+
+if python3 -c 'import yaml' 2>/dev/null; then
+  python3 scripts/check.py
+elif command -v uv >/dev/null; then
+  uv run --quiet --no-project --with pyyaml python3 scripts/check.py
+else
+  echo "pre-commit: need python3 with PyYAML, or uv"
+  exit 1
+fi
+
+# check.py looks at the working tree: lesson files that exist but aren't in git would 404 on the site.
+untracked=$(git ls-files --others --exclude-standard -- '*/*/*/*')
+if [ -n "$untracked" ]; then
+  echo "pre-commit: not added to git (the site's download links would 404):"
+  echo "$untracked"
+  exit 1
+fi
+
+# GitHub rejects files over 100 MB.
+git diff --cached --name-only -z --diff-filter=AM | while IFS= read -r -d '' f; do
+  if [ "$(wc -c <"$f")" -ge 100000000 ]; then
+    echo "pre-commit: $f is over 100 MB (GitHub's limit)"
+    exit 1
+  fi
+done

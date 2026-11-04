@@ -8,3 +8,15 @@ files:
 - path: y10-von-neumann-and-registers.pptx
   label: Lesson slides (PowerPoint)
   kind: slides
+- path: trace-a-program.xlsx
+  label: Trace a Program, self-marking (Excel)
+  kind: student
+- path: trace-a-program-teacher-copy.xlsx
+  label: Trace a Program, teacher copy (Excel)
+  kind: teacher
+- path: exam-marker-training.docx
+  label: Exam Marker Training (docx)
+  kind: student
+- path: exam-marker-training-teacher-copy.docx
+  label: Exam Marker Training, teacher copy (docx)
+  kind: teacher
